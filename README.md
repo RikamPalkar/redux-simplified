@@ -10,6 +10,10 @@ This project demonstrates how to build a small cart flow (car parts shop) with a
 - UI actions dispatched from components
 - derived UI values computed from state
 
+## What are we building
+<img width="1280" height="740" alt="Output Rikam Palkar" src="https://github.com/user-attachments/assets/477202d5-5360-440d-87e5-f803611cd222" />
+
+
 ## What this project is about
 
 The app focuses on one realistic use case: cart state shared across multiple components.
