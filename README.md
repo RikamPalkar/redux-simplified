@@ -11,6 +11,15 @@ This project demonstrates how to build a small cart flow (car parts shop) with a
 - derived UI values computed from state
 
 ## What are we building
+
+### The App
+
+<img width="1579" height="818" alt="Redux simplified by Rikam Palkar" src="https://github.com/user-attachments/assets/10689dc0-39a4-4e91-b833-420ce91d0fd2" />
+
+### Cart feature
+<img width="643" height="480" alt="Redux Simplified by Rikam Palkar 1" src="https://github.com/user-attachments/assets/63827a5b-d5a0-4afe-8129-ccf2b5093061" />
+
+### How cart works
 <img width="1280" height="740" alt="Output Rikam Palkar" src="https://github.com/user-attachments/assets/477202d5-5360-440d-87e5-f803611cd222" />
 
 
